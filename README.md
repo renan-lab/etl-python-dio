@@ -1,0 +1,2 @@
+# Pipeline ETL em Python
+Pipeline ETL (Transform, Extract and Load) feito em Python que consome a API [Santander Dev Week](https://github.com/digitalinnovationone/santander-dev-week-2023-api) fazendo GET em usuários conforme o arquivo _SDW2023.csv_, para cada usuário é criado uma mensagem personalizada de marketing bancário utilizando **IA** (ChatGPT), após a criação das mensagens elas são salvas junto aos usuários e em seguida os usuários são atualizados na API com as mensagens criadas.
